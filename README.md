@@ -34,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guaigua&show_icons=true&locale=en" alt="guaigua" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guaigua&" alt="guaigua" /></p>
+
+
+<p align="left"> <img src="https://br01-obst.uni.cloud/v1/AUTH_6b046c59a32b4ed68a54c6b2b2aee1ca/testgerman/images.jpg" alt="test" /> </p>
